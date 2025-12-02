@@ -1,4 +1,4 @@
 scikit-learn==1.7.2
-numpy @ file:///C:/miniconda3/conda-bld/numpy_and_numpy_base_1763980696204/work/dist/numpy-2.3.5-cp312-cp312-win_amd64.whl#sha256=bb8e9f7cb576c32f24212604430b2633f649dc00ee0a9d8d46e18853acc3c7f9
-joblib @ file:///C:/miniconda3/conda-bld/joblib_1757926366880/work
+numpy == 2.3.5
+joblib == 1.5.2
 streamlit==1.51.0
