@@ -1,0 +1,4 @@
+numpy @ file:///C:/miniconda3/conda-bld/numpy_and_numpy_base_1763980696204/work/dist/numpy-2.3.5-cp312-cp312-win_amd64.whl#sha256=bb8e9f7cb576c32f24212604430b2633f649dc00ee0a9d8d46e18853acc3c7f9
+streamlit==1.51.0
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+joblib @ file:///C:/miniconda3/conda-bld/joblib_1757926366880/work
